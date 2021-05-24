@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="55.573" height="34.143" viewBox="0 0 55.573 34.143">
+  <g id="Gruppe_14" data-name="Gruppe 14" transform="translate(0.5 0.5)">
+    <rect id="Rechteck_31" data-name="Rechteck 31" width="32.206" height="21.798" transform="translate(2.727 11.345)" stroke-width="1" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <path id="Pfad_17" data-name="Pfad 17" d="M57.275,468.737s3.375.343,5.114-1.4c1.792-1.791,1.761-2.945.338-4.3-1.354-1.429-2.508-1.462-4.3.332-1.739,1.739-1.4,5.115-1.4,5.115" transform="translate(-38.171 -462)" fill="none" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Pfad_18" data-name="Pfad 18" d="M56.728,468.737s-3.375.343-5.114-1.4c-1.792-1.791-1.761-2.945-.338-4.3,1.355-1.429,2.508-1.462,4.3.332,1.739,1.739,1.4,5.115,1.4,5.115" transform="translate(-38.171 -462)" fill="none" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Pfad_19" data-name="Pfad 19" d="M70.437,480.87" transform="translate(-38.171 -462)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <path id="Pfad_20" data-name="Pfad 20" d="M67.444,482.8" transform="translate(-38.171 -462)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    <g id="Gruppe_13" data-name="Gruppe 13" transform="translate(24.406 14.905)">
+      <circle id="Ellipse_6" data-name="Ellipse 6" cx="5.438" cy="5.438" r="5.438" transform="translate(1.785)" stroke-width="1" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" fill="#fff"/>
+      <circle id="Ellipse_7" data-name="Ellipse 7" cx="5.438" cy="5.438" r="5.438" transform="translate(17.432)" stroke-width="1" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+      <path id="Pfad_21" data-name="Pfad 21" d="M75.295,482.746l1.239.005h0a1.4,1.4,0,0,1,2.169.01h0l1.25.006" transform="translate(-62.577 -476.905)" fill="none" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linie_7" data-name="Linie 7" x1="1.803" transform="translate(0 5.456)" fill="none" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      <line id="Linie_8" data-name="Linie 8" x1="1.803" transform="translate(28.364 5.456)" fill="none" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+    </g>
+    <rect id="Rechteck_32" data-name="Rechteck 32" width="37.661" height="4.58" rx="0.766" transform="translate(0 6.765)" stroke-width="1" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+    <line id="Linie_9" data-name="Linie 9" y1="26.652" transform="translate(18.83 6.492)" fill="none" stroke="#181818" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>
